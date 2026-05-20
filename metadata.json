@@ -1,0 +1,10 @@
+{
+  "name": "Amdox Cloud ERP Suite",
+  "description": "An enterprise AI-powered resource planning platform featuring finance automation, HR & payroll, predictive demand forecasting, AP/AR OCR, real-time SCM tracking, Gantt charts, and an interactive Gemini ERP copilot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
